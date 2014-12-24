@@ -1,4 +1,4 @@
-#FaceTimeMaster
+<<<<<<< HEAD
 FaceTimeMaster
 ==============
 
@@ -46,3 +46,6 @@ FaceTimeMaster
 	    _recordView.hidden = NO;
     
 	}
+=======
+#FaceTimeMaster
+>>>>>>> 4fa1d0f00f7c0a8fa4c6d5502bbb97468f5b3e64
